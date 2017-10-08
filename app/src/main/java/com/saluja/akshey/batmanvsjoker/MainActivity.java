@@ -46,7 +46,9 @@ public class MainActivity extends AppCompatActivity {
         if (id == R.id.action_settings) {
             return true;
         }
-// test upload
+// test upload2
+        //this is cool
+        
         return super.onOptionsItemSelected(item);
     }
 }
