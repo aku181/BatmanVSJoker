@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
         if (id == R.id.action_settings) {
             return true;
         }
-//this is testin
+//this is tes
 
         return super.onOptionsItemSelected(item);
     }
